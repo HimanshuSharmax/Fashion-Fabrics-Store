@@ -24,3 +24,31 @@ This e-commerce platform includes a variety of features to provide a seamless sh
 - Checkout Process: Complete the purchase process with a checkout flow.
 - Order History: View past orders and their details.
 - Responsive Design: Ensures compatibility with both desktop and mobile devices for an optimal user experience.
+
+## Some Main Glimpse of The Website 📸
+
+- A. Product Page | Products For Men, Women, and Kids
+
+![Screenshot (90)](https://github.com/HimanshuSharmax/FashionFabrics-Store/assets/86725419/84cf6c83-c807-4674-8730-30072db84bc7)
+<br>
+<br>
+
+- B. Admin Panel for Creating Items | Maincategory, Subcategory, Products, Brands, Users
+
+![Screenshot (91)](https://github.com/HimanshuSharmax/FashionFabrics-Store/assets/86725419/63502bf2-4796-477f-aaaf-8abe1dc0bf2b)
+<br>
+<br>
+
+- C. Cart Page | Showing User All Cart Details
+
+![Screenshot (92)](https://github.com/HimanshuSharmax/FashionFabrics-Store/assets/86725419/6fac9b3b-df4b-4c9f-a3a7-9fefa54c9402)
+<br>
+<br>
+
+- D. Checkout Page | Place Order Via COD or Net Banking Options
+
+![Screenshot (93)](https://github.com/HimanshuSharmax/FashionFabrics-Store/assets/86725419/3bf46958-2cfd-48e4-bd5e-221dd4a03366)
+<br>
+<br>
+
+
